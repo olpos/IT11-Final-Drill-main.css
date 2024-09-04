@@ -1,0 +1,36 @@
+# JASPER_OLPOS Movie Website
+
+Welcome to **JASPER_OLPOS**, a stylish and engaging movie website designed to showcase the best movies of all time! This project features an eye-catching design with a dark red theme and easy navigation, ensuring a seamless and enjoyable user experience.
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [File Structure](#file-structure)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+The **JASPER_OLPOS** website allows users to explore a curated selection of movies. It features sections for trending movies, upcoming releases, and available movies, with a stylish dark red theme and responsive design.
+
+## Features
+- **Responsive Design**: Optimized for both desktop and mobile viewing.
+- **Navigation Menu**: Easy access to different sections of the website.
+- **Search Functionality**: Allows users to search for specific movies.
+- **Movie Categories**: Organized sections for trending, upcoming, and available movies.
+- **Hover Effects**: Subtle animations for a polished user experience.
+
+## File Structure
+
+## Technologies Used
+- **HTML5**: For the structure of the web pages.
+- **CSS3**: For styling, layout, and responsive design.
+- **JavaScript**: For interactive features and dynamic content.
+- **Unsplash**: Placeholder images used for movies.
+
+## Setup Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/olpos/IT11-Final-Drill-main.css.git
